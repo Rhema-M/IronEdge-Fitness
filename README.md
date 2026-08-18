@@ -69,4 +69,4 @@ The project showcases a professional business landing page, responsive layouts, 
 
 ## Live Demo
 
-https://rhema-m.github.io/IronEdge-landing_page/
+https://rhema-m.github.io/IronEdge-Fitness/
