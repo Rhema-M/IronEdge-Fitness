@@ -1,4 +1,4 @@
-# 🏋🏾‍♂️ IronEdge Fitness
+#  IronEdge Fitness
 
 A modern, responsive fitness landing page built with HTML, CSS, and JavaScript.
 
